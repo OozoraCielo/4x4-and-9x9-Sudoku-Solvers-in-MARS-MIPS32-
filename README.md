@@ -46,6 +46,11 @@ The expected result is:
 
 Please see the documentation file for more information on how I solved this.
 
+## **Requirements**
+- Windows XP or higher.
+- Java Runtime Environment (JRE), Java 9 or higher. Latest Java SE recommended. Download [here](https://www.oracle.com/java/technologies/javase-downloads.html).
+- MARS v4.5. A Java program for teaching, compiling, and running MIPS32 Assembly. Download [here](http://courses.missouristate.edu/kenvollmar/mars/download.htm).
+
 ---
 Carl David B. Ragunton \<cbragunton@up.edu.ph\>
 
