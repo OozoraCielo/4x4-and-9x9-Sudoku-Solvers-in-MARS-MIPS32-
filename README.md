@@ -46,6 +46,8 @@ The expected result is:
 
 Please see the documentation file for more information on how I solved this.
 
+Kindly [email](cbragunton@up.edu.ph) me if you want to see the project specifications.
+
 ## **Requirements**
 - Windows XP or higher.
 - Java Runtime Environment (JRE), Java 9 or higher. Latest Java SE recommended. Download [here](https://www.oracle.com/java/technologies/javase-downloads.html).
