@@ -2,8 +2,7 @@
 A University of the Philippines Project that mainly focuses on the use of MIPS32
 
 For this project, we were tasked to make a sudoku solver using MIPS32.
-There are 2 sizes of boards: 4x4 and 9x9
-I created the code by first making a C code and translating it to MIPS32.
+There are 2 sizes of boards: 4x4 and 9x9. I created the code by first making a C code and translating it to MIPS32.
 
 The input for the 4x4 solver is expected in this format:
 ```
